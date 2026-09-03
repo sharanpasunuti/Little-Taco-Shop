@@ -1,0 +1,9 @@
+table,th,td{
+    border: 1px solid blueviolet;
+    
+}
+
+th{
+
+    background-color: aqua;
+}
